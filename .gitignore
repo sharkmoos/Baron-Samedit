@@ -1,3 +1,8 @@
+# Any compiled exploit binaries
+
+baron_samedit
+libnss_HACK/TEH_WORLD.so.2
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
